@@ -1,0 +1,15 @@
+---
+layout: page
+title: /tags
+---
+<h1>Tags</h1>
+<p>Here you can find the assigned tags for each of my posts. //</p>
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
