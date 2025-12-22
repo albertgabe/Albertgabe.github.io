@@ -3,8 +3,8 @@ layout: page
 title: /about
 permalink: /about
 ---
-ShazStar. // 24 y/o. // He/Him. // Tech Enthusiasts & Rhythm Gamer. // YouTuber & Photographer. // CS Major & Developer. (?) //
+i still dont know what to write here
 
-- <a href="https://shazstar.github.io/contacts">Contacts/Links.</a>
+- <a href="[https://albertgabe.github.io/404]">Contacts/Links.</a>
 <p></p>
 - <a href="https://github.com/b2a3e8/jekyll-theme-console">Jekyll theme.</a>
