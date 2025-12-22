@@ -9,14 +9,14 @@ header_pages:
   - feed.xml
   - about.md
 
-footer: Copyright 2020-2025 ShazStar. // <a href="https://shazstar.github.io">Home page.</a> // <a href="https://shazstar.github.io/twblog">中文Blog.</a>
+footer: Albert // <a href="https://albertgabe.github.io">Home page.</a>
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # true or false (default)
 
-title: ShazStar. // Blog.
-description: ShazStar's personal blog.
-url: https://shazstar.github.io/blog
+title: Albert // Blog.
+description: Albert's dumb blog.
+url: https://albertgabe.github.io
 
 plugins:
   - jekyll-seo-tag
