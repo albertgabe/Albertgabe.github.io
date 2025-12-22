@@ -9,7 +9,7 @@ header_pages:
   - feed.xml
   - about.md
 
-footer: Albert // <a href="https://albertgabe.github.io">Home page.</a>
+footer: Albert Gabriel // <a href="https://albertgabe.github.io">Home page.</a>
 
 style: dark # dark (default), light or hacker
 listen_for_clients_preferred_style: true # true or false (default)
