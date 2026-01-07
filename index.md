@@ -1,7 +1,6 @@
 ---
-title: /
+title: / HOME
 layout: home
 permalink: /
----
+--- this is a place where i will try to explain ideas, write down some things and sometimes yap a little bit
 
-What's up. This is my personal blog, I don't really update here frequently but feel free to look around. ~ ShazStar.
